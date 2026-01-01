@@ -1,16 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://agentdub.ai/</loc>
-  </url>
-  <url>
-    <loc>https://agentdub.ai/navigator.html</loc>
-  </url>
-  <url>
-    <loc>https://agentdub.ai/intelligence.html</loc>
-  </url>
-  <url>
-    <loc>https://agentdub.ai/sentinel.html</loc>
-  </url>
+  <url><loc>https://agentdub.ai/</loc></url>
+  <url><loc>https://agentdub.ai/navigator.html</loc></url>
+  <url><loc>https://agentdub.ai/intelligence.html</loc></url>
+  <url><loc>https://agentdub.ai/sentinel.html</loc></url>
+
+  <url><loc>https://agentdub.ai/signals/001.html</loc></url>
+  <url><loc>https://agentdub.ai/signals/002.html</loc></url>
+  <url><loc>https://agentdub.ai/signals/003.html</loc></url>
 </urlset>
 
